@@ -1,2 +1,2 @@
 # C-Users-elyes-eclipse-workspace-HighTech-bin
-Gestion Des Client / Articles / Commande HighTechExemple
+Gestion Des Clients / Articles / Commande HighTechExemple
